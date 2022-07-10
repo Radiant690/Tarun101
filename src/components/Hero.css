@@ -1,0 +1,7 @@
+.row {}
+
+img {
+  min-height: 150px;
+  object-fit: cover;
+  width: 490px;
+}
